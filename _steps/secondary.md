@@ -4,7 +4,7 @@ date: 2000-09-01 00:00:00 -0700
 enddate: 
 ---
 
-![NEED RECENT ARTS IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/187px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg)
+![NEED RECENT ARTS IMAGE]()
 
 Continuing the arts focus of one of the small schools within the larger Wadleigh campus, Wadleigh Secondary School for the Performing and Visual Arts opened in 2000. 
 
