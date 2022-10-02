@@ -1,5 +1,5 @@
 ---
-title: Wadleigh High School for Girls on 114th Street in Harlem  
+title: Wadleigh High School for Girls 
 date: 1902-09-01 00:00:00 -0700
 enddate: 1954-06-01 00:00:00 -0700
 ---
