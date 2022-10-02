@@ -15,9 +15,11 @@ As Harlem’s Black population grew via migration within New York, from the US S
 Wadleigh’s enrollment declined over the 1940s and 1950s, and the Board of Education decided to close it as a girls high school in 1954. 
 
 Read more: 
+
 [Kimberly Johnson, "Wadleigh High School: The Price of Segregation"](https://ansleyerickson.github.io/book/chapters/03/)
 
 [Landmarks Preservation Commission, 1994](http://neighborhoodpreservationcenter.org/db/bb_files/Wadleigh-High-School-For-Girls.pdf)
 
 [Explore yearbooks from Wadleigh High School for Girls](https://harlemeducationhistoryproject.github.io/wadleigh/yearbooks/)
 
+[Read exhibits about Wadliegh High School for Girls](https://harlemeducationhistoryproject.github.io/wadleigh/)
