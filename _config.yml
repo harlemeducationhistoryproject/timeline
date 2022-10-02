@@ -22,6 +22,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 description: 
-baseurl: "/wadleigh/timeline"
+baseurl: "/timeline"
 url: 
 color: "#f2f2f2"
