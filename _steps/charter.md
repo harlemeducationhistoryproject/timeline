@@ -1,6 +1,6 @@
 ---
 title: Charter School Opens at Wadleigh 
-date: 2012-09 00:00:00 -0700
+date: 2012-09-01 00:00:00 -0700
 enddate: 
 ---
 
