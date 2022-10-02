@@ -6,5 +6,5 @@ enddate:
 
 ![](http://s-media.nyc.gov/agencies/lpc/lp/1840.pdf)
 
-The New York City Landmarks Commission gave Wadleigh historic landmark status in 1994. A network of Black women who had attended Wadleigh High School in the 1930s, 1940s, and 1950s lobbied local politicians and organized to secure this recognition for their school. 
+The New York City Landmarks Commission gave Wadleigh historic landmark status in 1994. A network of Black women who had attended Wadleigh High School in the 1930s, 1940s, and 1950s lobbied local politicians and organized to secure this recognition for their school. This was one part of their advocacy, which had, over the decades after they attended the school, included fundraising for school resources and for scholarship support for Wadleigh students. 
 
