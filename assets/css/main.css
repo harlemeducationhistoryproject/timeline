@@ -1,12 +1,12 @@
 body {
 font-size:14px;
-font-family:'Open Sans Regular',sans-serif
+font-family:'Open Sans Regular','Verdana','sans-serif'
 }
 img {
-max: width 200px;
+max-width:  200px;
 }
 h1,h2,h3,h4,h5,h6 {
-font-family:'Open Sans light',sans-serif;
+font-family:'Open Sans light','Verdana','sans-serif';
 text-transform:
 }
 .item { 
