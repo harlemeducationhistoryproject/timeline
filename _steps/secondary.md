@@ -1,6 +1,6 @@
 ---
 title: Wadleigh Secondary School for the Performing and Visual Arts  
-date: 2000-09 00:00:00 -0700
+date: 2000-09-01 00:00:00 -0700
 enddate: 
 ---
 
