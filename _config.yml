@@ -24,4 +24,4 @@ lsi: false
 description: 
 baseurl: "/timeline"
 url: 
-color: "#ffffff"
+color: "#f2f2f2"
